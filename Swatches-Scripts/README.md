@@ -1,0 +1,2 @@
+# Illustrator Swatches Scripts
+
