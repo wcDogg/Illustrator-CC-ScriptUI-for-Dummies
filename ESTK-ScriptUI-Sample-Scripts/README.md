@@ -2,6 +2,8 @@
 
 These are the sample scripts distributed with [Adobe ExtendScript Toolkit (ESTK)](https://github.com/Adobe-CEP/CEP-Resources/tree/master/ExtendScript-Toolkit). Included here becsue ScriptUI examples are hard to find and maybe you don't use ESTK. 
 
+Note the zip file - it contains all the ESTK sample scripts listed here. 
+
 I haven't gone through these yet, so I'm not sure they're all relavent to Illustrator.
 
 
