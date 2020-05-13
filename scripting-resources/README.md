@@ -5,7 +5,7 @@ Two of my biggest hurdles learning ExtendScript & ScriptUI have been the broken 
 
 ## Essentials
 
-Peter Kahrel: [ScriptUI for Dummies](https://creativepro.com/files/kahrel/indesign/scriptui.html) (InDesign, but plenty realavent)
+Peter Kahrel: [ScriptUI for Dummies](https://creativepro.com/files/kahrel/indesign/scriptui.html) (InDesign, but plenty realevant)
 
 Joonas Pääkkö: [ScriptUI Dialog Builder](https://scriptui.joonas.me/)
 
@@ -16,11 +16,11 @@ Adobe: [Adobe Illustrator Scripting Guide](https://illustrator-scripting-guide.r
 
 ## ExtendScript Tool Kit (ESTK)
 
+[Download Adobe ESTK](https://github.com/Adobe-CEP/CEP-Resources/tree/master/ExtendScript-Toolkit) 
+
 Almost everything you read about Adobe scripting will mention the ExtendScript Tool Kit - a SDK with an editor, JS console, libraries, code samples, documenation, and other tools for working with `.jsx`.  
 
 You won't find this link via Google, the CC app, or Adobe support because Adobe is pushing developers towards their Extend Script Debugger extension for VS Code.
-
-[Download Adobe ESTK](https://github.com/Adobe-CEP/CEP-Resources/tree/master/ExtendScript-Toolkit) 
 
 
 ## Visual Studio Code
