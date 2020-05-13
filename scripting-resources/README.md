@@ -1,6 +1,6 @@
-# Adobe Illustrarot CC Scripting Resources
+# Adobe Illustrator CC Scripting Resources
 
-Two of my biggest hurdles learning ExtendScript & ScriptUI have been the broken resource links everywhere and Adobe's maze of un-documentation. I hope this page helps you in some way :)
+Two of my biggest hurdles learning ExtendScript & ScriptUI have been the broken resource links everywhere, and Adobe's maze of un-documentation. I hope this page helps you in some way :)
 
 
 ## Essentials
