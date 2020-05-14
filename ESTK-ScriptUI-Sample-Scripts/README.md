@@ -1,6 +1,6 @@
 # Adobe ESTK ScriptUI Sample Scripts
 
-These are the sample scripts distributed with [Adobe ExtendScript Toolkit (ESTK)](https://github.com/Adobe-CEP/CEP-Resources/tree/master/ExtendScript-Toolkit). Included here becsue ScriptUI examples are hard to find and maybe you don't use ESTK. 
+These are the sample scripts distributed with [Adobe ExtendScript Toolkit (ESTK)](https://github.com/Adobe-CEP/CEP-Resources/tree/master/ExtendScript-Toolkit). Included here because ScriptUI examples are hard to find and maybe you don't use ESTK. 
 
 Note the zip file - it contains all the ESTK sample scripts listed here. 
 
