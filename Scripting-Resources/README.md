@@ -8,7 +8,8 @@ Two of my biggest hurdles learning ExtendScript & ScriptUI have been the broken 
 * Peter Kahrel: [ScriptUI for Dummies](https://creativepro.com/files/kahrel/indesign/scriptui.html) (InDesign, but plenty realavent)
 * Joonas Pääkkö: [ScriptUI Dialog Builder](https://scriptui.joonas.me/)
 * Adobe: [Javascript Tools Guide CC](https://estk.aenhancers.com/index.html)
-* Adobe: [Adobe Illustrator Scripting Guide](https://illustrator-scripting-guide.readthedocs.io/) 
+* Adobe: [Adobe Illustrator Scripting Guide](https://illustrator-scripting-guide.readthedocs.io/)
+* fabiantheblind: [ExtendScript Wiki](https://github.com/ExtendScript/wiki/wiki)
 
 
 ## ExtendScript Toolkit (ESTK)
