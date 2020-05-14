@@ -1,1 +1,1 @@
-# Adobe Illustrator ScriptUI for Dummies
+# Adobe Illustrator CC ScriptUI for Dummies
