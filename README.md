@@ -15,7 +15,7 @@ This is a project for people who want to get more out of Illustrator and, either
 
 I'm a technical writer & information architect. Documenting what I learn is something I've always done. I'm not a JavaScript guru. I'm just starting ExtendScript & ScriptUI. 
 
-Where Peter's guide uses examples for InDesign, this project is about Illustrator. And unlike the bare-bones refrence guides intended for developers who already know what they're doing, this project is written for learners. I sincerely hope this place helps you in some way :)
+Where Peter's guide uses examples for InDesign, this project is about Illustrator. And unlike the bare-bones refrence guides intended for developers who already know what they're doing, this project is written for learners and I sincerely hope it helps you in some way :)
 
 ## Quick Start
 
