@@ -48,3 +48,15 @@ If links are broken, PDFs are avialable in this folder.
 ## Other Adobe CC Applications
 
 * Brett Dixon: [Photoshop Scripting & Extension Reference](https://theiviaxx.github.io/photoshop-docs/index.html#)
+
+
+## ECMAScript 3 - JavaScript ES3
+
+Adobe ExtendScript extends ES3 - an older version of JavaScript that is significantly different from the ES5 and ES6 wersions most common right now. These are ES3 resources:
+
+* MDN: [ECMAScript Launguage Specification: Edition 3 Final](https://www-archive.mozilla.org/js/language/E262-3.pdf)
+* MDN: [JavaScript Language Resources](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Language_Resources)
+* Christian Salvado: [List of ES3 Incompatibilities introduced by ES5](https://gist.github.com/cms/649702)
+
+
+
