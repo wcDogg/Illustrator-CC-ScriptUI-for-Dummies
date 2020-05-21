@@ -58,7 +58,7 @@ Select an object an run this script to see an object's tags displayed as alerts.
 
 ## Rotate an Object 30 Degrees
 
-[rotate_30](https://github.com/wcDogg/Illustrator-CC-ScriptUI-for-Dummies/tree/master/Object-Tag-Scripts/rotate_30.jsx)
+[rotate_30.jsx](https://github.com/wcDogg/Illustrator-CC-ScriptUI-for-Dummies/tree/master/Object-Tag-Scripts/rotate_30.jsx)
 
 A test script for demonstrating that rotating an object using `.rotate()` does not add the `BBAccumRotation` tag as you might expect. 
 
