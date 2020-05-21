@@ -1,14 +1,11 @@
 # Adobe Illustrator CC Object Tag Scripts
-
-Tags store variable data that 
+ 
 
 ## Resorces
 
-[Illustrator CC Scripting Guide > Tag](https://illustrator-scripting-guide.readthedocs.io/jsobjref/Tag/#tag)
-
-[Illustrator CC Scripting Guide > Tags](https://illustrator-scripting-guide.readthedocs.io/jsobjref/Tags/#tags)
-
-Vasily Hall: [Adobe Illustrator Variable Data​: dealing with overset text.](https://www.linkedin.com/pulse/adobe-illustrator-variable-data-dealing-overset-text-vasily-hall)
+* [Illustrator CC Scripting Guide > Tag](https://illustrator-scripting-guide.readthedocs.io/jsobjref/Tag/#tag)
+* [Illustrator CC Scripting Guide > Tags](https://illustrator-scripting-guide.readthedocs.io/jsobjref/Tags/#tags)
+* Vasily Hall: [Adobe Illustrator Variable Data​: dealing with overset text.](https://www.linkedin.com/pulse/adobe-illustrator-variable-data-dealing-overset-text-vasily-hall)
 
 
 ## Add or Update an Object Tag
@@ -68,9 +65,8 @@ A test script for demonstrating that rotating an object using `.rotate()` does n
 
 ## Object Rotation
 
-[Illustrator CC Scripting Guide > Rotate](https://illustrator-scripting-guide.readthedocs.io/jsobjref/PageItem/?highlight=rotate#pageitem-rotate)
-
-Adobe Support Community: [How to get the angle of an object?](https://community.adobe.com/t5/illustrator/how-to-get-the-angle-of-an-object/td-p/8803169?page=1)
+* [Illustrator CC Scripting Guide > Rotate](https://illustrator-scripting-guide.readthedocs.io/jsobjref/PageItem/?highlight=rotate#pageitem-rotate)
+* Adobe Support Community: [How to get the angle of an object?](https://community.adobe.com/t5/illustrator/how-to-get-the-angle-of-an-object/td-p/8803169?page=1)
 
 Illustrator uses the `BBAccumRotation` to track an object's rotation in radians `0.51246700`.
 
@@ -86,6 +82,3 @@ Illustrator uses the `BBAccumRotation` to track an object's rotation in radians 
 * Was rotated via a script such as `rotate_30.jsx` in this folder. 
 * Is rotated via live Effects > Distort & Transform > Transform > Rotate
 * Was rotated with a live effect and expanded
-
-
-
