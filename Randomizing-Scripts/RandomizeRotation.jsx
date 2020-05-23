@@ -1,5 +1,5 @@
  /**
- * @file Smart Rotate
+ * @file Randomize Rotation
  * @decription Randomly rotate selected objects. Alternatively, rotate objects by a given degree.
  * @version  1.0.0  
  * @link https://github.com/wcDogg/Illustrator-CC-ScriptUI-for-Dummies/tree/master/Randomizing-Scripts/RandomizeRotation.jsx
