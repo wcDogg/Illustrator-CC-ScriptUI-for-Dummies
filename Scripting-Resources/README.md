@@ -12,14 +12,19 @@ Two of my biggest hurdles learning ExtendScript & ScriptUI have been the broken 
 * fabiantheblind: [ExtendScript Wiki](https://github.com/ExtendScript/wiki/wiki)
 
 
-## ExtendScript Toolkit (ESTK)
+## Editors / Debugging Tools
+
+In many cases, JavaScript is tested in a browser using developer tools which include a console. With Illustrator, you'll need either ESTK or the ExtendScript Debugger for VS Code. 
+
+Both provide ways to run scripts and view a console from the editor itself. 
+
+### ExtendScript Toolkit (ESTK)
 
 [Download Adobe ESTK](https://github.com/Adobe-CEP/CEP-Resources/tree/master/ExtendScript-Toolkit) 
 
 You won't find this link via Google, the CC app, or Adobe support because Adobe is pushing developers towards their Extend Script Debugger extension for VS Code.
 
-
-## Visual Studio Code
+### Visual Studio Code
 
 In 2019, Adobe released the ExtendScript Debugger extenstion for VS Code. Debugger is meant to replace ETSK.
 
@@ -29,8 +34,7 @@ In 2019, Adobe released the ExtendScript Debugger extenstion for VS Code. Debugg
 
 I haven't tried ESTK. I have tried Debugger and it made me cry - I got it working for 2 hours before it went hinky. I still haven't gotten it to work again. 
 
-
-## Sublime Text
+### Sublime Text
 
 [ExtendScript Package](https://packagecontrol.io/packages/ExtendScript) - Intended to be used in conjunction with ESTK. 
 
