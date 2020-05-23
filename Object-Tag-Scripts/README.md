@@ -48,7 +48,7 @@ A ScriptUI dialog to remove an object's tag using a tag name.
 
 [object_tags_report.jsx](https://github.com/wcDogg/Illustrator-CC-ScriptUI-for-Dummies/tree/master/Object-Tag-Scripts/object_tags_report.jsx)
 
-Select an object an run this script to see an object's tags displayed in a new document (aka report). Taken from the Illustrator scripting guide and updated so it does not add a temporary tag. 
+Select an object an run this script to see an object's tags displayed in a new document (aka report). Taken from the Illustrator Scripting Guide and updated so it does not add a temporary tag. 
 
 * Iterate object `.selection`
 * Iterate an object's `.tags`
