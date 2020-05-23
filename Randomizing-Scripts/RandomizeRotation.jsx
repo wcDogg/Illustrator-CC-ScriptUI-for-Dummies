@@ -228,7 +228,7 @@ function RandomizeRotation() {
 
     // CCW Slider
     var ccw_slider = ccw_group.add('slider', undefined, 180, 0, 180); 
-        ccw_slicer.helpTip = 'The maximum number of degrees to rotate counterclockwise';
+        ccw_slider.helpTip = 'The maximum number of degrees to rotate counterclockwise';
 
     // Sync CCW slider to text
     ccw_slider.onChanging = function () { 
